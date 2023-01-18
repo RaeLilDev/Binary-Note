@@ -8,6 +8,7 @@ An iOS app to take note.
     - pod install
 
 ### What You Will See
+- UIKit, RxSwift, RxCocoa and RxCoreData with MVVM architecture.
 - Take note by with title and description
 - Edit note
 - Delete note by swiping right
